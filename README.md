@@ -1,6 +1,8 @@
-# Gas-leakage-detection-system
-Detects the concentration of gas leaked into the atmosphere and displays it on a screen  and sounds an alarm
-This project was built using the arduino uno break out board.
+# Technological advances in LPG sector
+LPG detection and customer service.A device was developed to be attached to existing cylinders which will measure the
+fuel quantity and automatically inform the linked distributor to refill cylinders
+The usage of all the customers can be exactly mapped by a demand-supply graph andthus predict accurate demand in an
+area
 COMPONENTS INVOLVED
  -MQ5 gas sensor
  -LCD
